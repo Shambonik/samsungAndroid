@@ -17,6 +17,8 @@ public class AI{
     private static final String TAG = "MyApp";
 
  /*
+
+ 
     static void sin(String[] result){
         //String[] result = new String[73];
         int[][] array = new int[15][73];
